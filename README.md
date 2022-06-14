@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Cursando Engenharia de Computação e Informação na Universaidade Federal do Rio de Janeiro (UFRJ)
+- 🔭 Cursando Engenharia de Computação e Informação na Universidade Federal do Rio de Janeiro (UFRJ)
 - 🌱 Estudando Python
 - 😄 Pronomes: ela/dela
 
