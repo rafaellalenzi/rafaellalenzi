@@ -1,7 +1,7 @@
 ## Olá! Eu sou Rafaella Lenzi 👋
 ### 👩🏽‍💻Sobre mim:
 - 🔭 Cursando Engenharia de Computação e Informação na Universidade Federal do Rio de Janeiro (UFRJ)
-- 🌱 Estudando Python
+- 🌱 Me Aprimorando em Python
 
 ##
 ### 🔥Status:
@@ -9,7 +9,13 @@
   <a href+"https://github.com/rafaellalenzi">
   <img height="108em" src="https://github-readme-stats.vercel.app/api?username=rafaellalenzi&show_icons=true&theme=tokyonight&include_all_comits=true&count_privae=true"/>
   <img height="108em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellalenzi&layout=compact&langs_count=16&theme=tokyonight"/> 
-  <img align="center" width="40" hight="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+
+##
+### 🔎Linguagens:
+<div>
+  <img align="center" alt="rafa-Python" width="40" hight="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
   
 ##
