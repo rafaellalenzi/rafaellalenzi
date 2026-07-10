@@ -4,14 +4,6 @@
 - 🌱 Me Aprimorando em Programação
 
 ##
-### 🔥Status:
-<div>
-  <a href+"https://github.com/rafaellalenzi">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=rafaellalenzi&show_icons=true&theme=tokyonight&include_all_comits=true&count_privae=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellalenzi&layout=compact&langs_count=16&theme=tokyonight"/> 
-</div>
-
-##
 ### 🔎Linguagens:
 <div>
   <img align="center" alt="rafa-Python" width="40" hight="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
